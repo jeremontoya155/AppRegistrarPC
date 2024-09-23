@@ -125,7 +125,7 @@ root.title("Advanced System Information")
 root.geometry("700x700")
 
 # Crear un frame para organizar el contenido
-frame = ctk.CTkFrame(root)
+frame = ctk.CTkFrame(root)  
 frame.pack(pady=20, padx=20, fill="both", expand=True)
 
 # Crear widgets dentro del frame
