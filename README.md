@@ -46,4 +46,4 @@
 
 
 <h2>Contacto</h2>
-<p>Si tienes alguna duda o sugerencia sobre la aplicación, no dudes en contactarme a través de <strong>correo@ejemplo.com</strong>.</p>
+<p>Si tienes alguna duda o sugerencia sobre la aplicación, no dudes en contactarme a través de <strong>jeremontoya1555@gmail.com</strong>.</p>
